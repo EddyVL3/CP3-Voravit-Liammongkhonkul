@@ -1,3 +1,5 @@
+username = input("username  :  ")
+password = input("password  :  ")
 Rice_per_kg = 90
 Meat_per_kg = 300
 Pork_per_kg = 200
